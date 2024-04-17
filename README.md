@@ -1,2 +1,5 @@
-conflit
+
 "# Nedson" 
+
+Test conflit resolu
+
